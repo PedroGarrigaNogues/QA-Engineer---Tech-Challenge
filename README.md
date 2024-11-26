@@ -1,3 +1,6 @@
 Requisitos:
-Node.js v14+ y npm
+
+
+Node.js y npm
+
 Cypress
